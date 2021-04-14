@@ -1,7 +1,10 @@
-p.center {
+/* p.center {
   color: red;
   text-align: center;
 }
 p.large {
   font-size: 300%;
+} */
+div + p {
+  background-color: yellow;
 }
