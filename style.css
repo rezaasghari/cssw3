@@ -5,6 +5,9 @@
 p.large {
   font-size: 300%;
 } */
-div + p {
+/* div + p {
   background-color: yellow;
+} */
+p ~ ul {
+  background-color: #ff0000;
 }
