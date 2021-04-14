@@ -8,6 +8,9 @@ p.large {
 /* div + p {
   background-color: yellow;
 } */
-p ~ ul {
+/* p ~ ul {
   background-color: #ff0000;
+} */
+a[target] {
+  background-color: yellow;
 }
