@@ -11,6 +11,9 @@ p.large {
 /* p ~ ul {
   background-color: #ff0000;
 } */
-a[target] {
+/* a[target] {
+  background-color: yellow;
+} */
+a[target="_blank"] {
   background-color: yellow;
 }
