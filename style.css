@@ -28,6 +28,9 @@ input[type="text"]:focus {
 /* [title ~="flower"] {
   border: 5px solid yellow;
 } */
-[lang|="en"] {
+/* [lang|="en"] {
   background: yellow;
+} */
+[class|="top"] {
+  background-color: yellow;
 }
