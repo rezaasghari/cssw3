@@ -34,6 +34,9 @@ input[type="text"]:focus {
 /* [class|="top"] {
   background-color: yellow;
 } */
-div[class^="test"] {
+/* div[class^="test"] {
+  background-color: #ffff00;
+} */
+[class^="test"] {
   background-color: #ffff00;
 }
