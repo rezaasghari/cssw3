@@ -49,6 +49,9 @@ input[type="text"]:focus {
 /* div[class*="test"] {
   background-color: #ffff00;
 } */
-[class*="test"] {
+/* [class*="test"] {
+  background-color: #ff0;
+} */
+a:active {
   background-color: #ff0;
 }
