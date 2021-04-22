@@ -52,6 +52,11 @@ input[type="text"]:focus {
 /* [class*="test"] {
   background-color: #ff0;
 } */
-a:active {
+/* a:active {
   background-color: #ff0;
+} */
+p:active,
+h1:active,
+a:active {
+  background-color: yellow;
 }
