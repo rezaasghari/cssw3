@@ -55,8 +55,24 @@ input[type="text"]:focus {
 /* a:active {
   background-color: #ff0;
 } */
-p:active,
+/* p:active,
 h1:active,
 a:active {
   background-color: yellow;
+} */
+/* unvisited link */
+a:link {
+  color: green;
+}
+/* visited link */
+a:visited {
+  color: green;
+}
+/* mouse over link */
+a:hover {
+  color: red;
+}
+/* selected link */
+a:active {
+  color: yellow;
 }
